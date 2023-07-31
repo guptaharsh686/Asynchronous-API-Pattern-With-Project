@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Async Product API Project/.vs
+/Async Product API Project/Async Product API Project/bin/Debug/net6.0
+/Async Product API Project/Async Product API Project/obj
+/~$Notes.docx
